@@ -1,0 +1,8 @@
+package aula06;
+
+class Argumentos {
+	public static void main(String[] args) {
+		System.out.println("Você digitou " + args[0]);
+	}
+}
+// java é compilado e interpretado
