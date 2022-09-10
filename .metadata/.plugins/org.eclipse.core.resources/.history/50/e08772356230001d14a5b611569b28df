@@ -1,7 +1,0 @@
-package aula05;
-
- class HelloWorld { // nome da classe sempre em maiúsculo
-	 public static void main(String[] args) {
-		 System.out.println("Hello World!");
-	 }
- } 
