@@ -12,8 +12,6 @@ public class ListaSupermercado {
 		int numeroFrutas = 0;
 		String minhasFrutas = "";
 
-
-
 		for (int i = 0; i < frutasEmPromocao.length; i++) {
 			for (int j = 0; j < listaFrutas.length; j++) {
 				if (minhasFrutas.equals(frutasEmPromocao)) {
@@ -31,6 +29,6 @@ public class ListaSupermercado {
 			}
 		}
 		sc.close();
-	}
 
+	}
 }
