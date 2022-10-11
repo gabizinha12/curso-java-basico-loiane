@@ -1,4 +1,4 @@
-package com.loiane.javabasico.aula19;
+package com.loiane.javabasico.aula18;
 
 import java.util.Scanner;
 
