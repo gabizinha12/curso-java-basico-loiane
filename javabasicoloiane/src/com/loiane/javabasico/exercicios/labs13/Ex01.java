@@ -1,4 +1,4 @@
-package com.loiane.javabasico.exercicios;
+package com.loiane.javabasico.exercicios.labs13;
 
 public class Ex01 {
 	public static void main(String[] args) {

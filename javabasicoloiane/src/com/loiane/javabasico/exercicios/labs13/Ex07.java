@@ -1,4 +1,4 @@
-package com.loiane.javabasico.exercicios;
+package com.loiane.javabasico.exercicios.labs13;
 
 import java.util.Scanner;
 
