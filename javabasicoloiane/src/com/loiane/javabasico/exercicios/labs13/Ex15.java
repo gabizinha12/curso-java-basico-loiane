@@ -20,6 +20,7 @@ public class Ex15 {
 		System.out.printf(" Pagou ao sindicato: %.2f ", qtoPagouAoSindicato);
 		double salarioLiquido = salarioBruto - (salarioBruto * (descontoINSS + descontoSindicato + descontoIR) / 100);
 		System.out.printf(" O salário líquido é :%.2f ", salarioLiquido);
+		sc.close();
 	}
 
 }

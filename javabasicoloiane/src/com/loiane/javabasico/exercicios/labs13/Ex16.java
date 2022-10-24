@@ -15,7 +15,7 @@ public class Ex16 {
 		double precoTotal = qtdLitros * preco;
 		System.out.printf("Deverá comprar %.2f litros de latas e pagará %.2f", litros, precoTotal);
 		
-		
+		sc.close();
 
 	}
 

@@ -12,6 +12,7 @@ public class Ex18 {
 		double velocidadeInternet = sc.nextDouble();
 		double velocidadeDownload = tamanhoArquivo / velocidadeInternet;
 		System.out.println("Tempo de download: " + velocidadeDownload);
+		sc.close();
 
 	}
 

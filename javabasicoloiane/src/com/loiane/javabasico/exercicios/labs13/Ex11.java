@@ -16,5 +16,6 @@ public class Ex11 {
 		System.out.printf("O produto dos números é %d", produto);
 		System.out.printf(" A soma é %.0f", soma);
 		System.out.printf(" O terceiro numero elevado ao cubo é %.0f", aoCubo);
+		sc.close();
 	}
 }

@@ -44,6 +44,7 @@ public class Ex13 {
 			break;	
 		}
 		
+		sc.close();
 		
 	}
 

@@ -21,7 +21,7 @@ public class Ex15 {
 			System.out.println("Escaleno");
 		}
 		
-		
+		sc.close();
 
 	}
 
